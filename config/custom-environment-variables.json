@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "coffee_jwtPrivateKey",
+  "db": "coffee_db"
+}
